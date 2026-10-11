@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/python-trio/purerpc/commit/a3c17dd885d8f36bcf3a78c7506e35f7bc33cccc",
       "git:hexsha": "a3c17dd885d8f36bcf3a78c7506e35f7bc33cccc",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T01:32:02.252696+00:00"
     },
     {
       "@id": "https://repolex.ai/r/python-trio/purerpc/commit/80d20751071fcdb4b65dc393fcb4549c204938c8",
