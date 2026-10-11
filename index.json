@@ -1,0 +1,11 @@
+{
+  "org": "python-trio",
+  "repo": "purerpc",
+  "versions": [
+    {
+      "commit": "a3c17dd885d8f36bcf3a78c7506e35f7bc33cccc",
+      "tag": "",
+      "parsed_at": "2026-10-11T01:32:02.253301+00:00"
+    }
+  ]
+}
